@@ -1,5 +1,4 @@
-[ERROR] 2019-12-09 14:41:35.583 [main] Main - Oops!!!: Your passwords should have an uppercase-
-Oops!!!: Your password should have a number-
-Oops!!!: Your password should have special character-
-Oops!!!: Your should be longer than 8-
+[ERROR] 2019-12-10 01:11:30.884 [main] Main - Oops!!!: Your password should have a number.
+Oops!!!: Your password should have special character.
+Oops!!!: Your password should be longer than 8.
 

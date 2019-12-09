@@ -8,23 +8,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String password = "s";
-        logger.debug(PasswordIsOk.passwordIsOkay(password));
-//        logger.info(PasswordIsValid.passwordIsValid(""));
-//        logger.warn("Hello this is a warning message");
+        String password = "gA";
+        logger.debug(PasswordIsOk.passwordIsOkay());
+
+
         logger.error(PasswordIsValid.passwordIsValid(password));
-//        logger.fatal("Hello this is a fatal message");
+//        System.out.println(PasswordIsOk.passwordIsOkay());
 
-
-
-//        Scanner Obj=new Scanner(System.in);
-
-//        System.out.println("Please enter your password :");
-//        String password=Obj.nextLine();
-
-
-
-//        System.out.println(PasswordIsValid.passwordIsValid(password));
 
 
 
