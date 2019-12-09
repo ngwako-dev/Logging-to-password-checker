@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cb09653-521f-4699-8651-a18e589b62c0" name="Default Changelist" comment="" />
+    <list default="true" id="4cb09653-521f-4699-8651-a18e589b62c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PasswordIsOk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PasswordIsOKay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PasswordIsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PasswordIsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PasswordIsValidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PasswordIsValidTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UbtHne5g8c9HWlDrLZVtKJMGjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Animal_part2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -41,6 +63,20 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Logging2PasswordChecker.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,14 +104,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="313" y="59" width="847" height="684" key="#Project_Structure" timestamp="1575637382467">
+    <state x="377" y="68" width="671" height="666" key="#Main" timestamp="1575893702067">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="313" y="59" width="847" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1575637382467" />
+    <state x="377" y="68" width="671" height="666" key="#Main/70.27.1296.741@70.27.1296.741" timestamp="1575893702067" />
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure" timestamp="1575877307887">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="313" y="59" width="847" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1575877307887" />
+    <state x="419" y="202" width="587" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575879430237">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="419" y="202" width="587" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1575879430237" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575879725977">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1575879725977" />
+    <state width="1250" height="274" key="GridCell.Tab.0.bottom" timestamp="1575895294648">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="274" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1575895294648" />
+    <state width="1250" height="274" key="GridCell.Tab.0.center" timestamp="1575895294646">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="274" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1575895294646" />
+    <state width="1250" height="274" key="GridCell.Tab.0.left" timestamp="1575895294644">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="274" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1575895294644" />
+    <state width="1250" height="274" key="GridCell.Tab.0.right" timestamp="1575895294647">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="274" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1575895294647" />
     <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1575637370265">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1575637370265" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575876269427">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1575876269427" />
     <state x="492" y="118" width="442" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575640339360">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
