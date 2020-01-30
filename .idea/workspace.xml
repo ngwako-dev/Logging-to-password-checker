@@ -6,17 +6,31 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PasswordIsOk.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/PasswordIsOk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/PasswordIsOk.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/PasswordIsValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/PasswordIsValid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/PasswordIsValidTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/PasswordIsValidTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/PasswordIsValidTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/log4j2-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-PasswordIsValidTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PasswordIsOk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PasswordIsOk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PasswordIsOk.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PasswordIsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PasswordIsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PasswordIsValidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PasswordIsValidTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.PasswordIsValidTest.passwordIsOk">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Logging2PasswordChecker.main" />
@@ -72,8 +86,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PasswordIsValidTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordIsValidTest&quot; --debug" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordIsValidTest.passwordIsOk" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordIsValidTest.passwordIsOk&quot; --scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordIsValidTest.passwordIsValid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PasswordIsValidTest.passwordIsValid&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PasswordIsValidTest.passwordIsOk" />
+        <item itemvalue="Gradle.PasswordIsValidTest" />
+        <item itemvalue="Gradle.PasswordIsValidTest.passwordIsValid" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -116,26 +193,30 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="419" y="202" width="587" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1575879430237" />
+    <state x="451" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580374033642">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="451" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1296.741@70.27.1296.741" timestamp="1580374033642" />
     <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575879725977">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1575879725977" />
-    <state width="1250" height="274" key="GridCell.Tab.0.bottom" timestamp="1575933098887">
+    <state width="1250" height="274" key="GridCell.Tab.0.bottom" timestamp="1580378516950">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="274" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1575933098887" />
-    <state width="1250" height="274" key="GridCell.Tab.0.center" timestamp="1575933098886">
+    <state width="1250" height="274" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1580378516950" />
+    <state width="1250" height="274" key="GridCell.Tab.0.center" timestamp="1580378516949">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="274" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1575933098886" />
-    <state width="1250" height="274" key="GridCell.Tab.0.left" timestamp="1575933098884">
+    <state width="1250" height="274" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1580378516949" />
+    <state width="1250" height="274" key="GridCell.Tab.0.left" timestamp="1580378516949">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="274" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1575933098884" />
-    <state width="1250" height="274" key="GridCell.Tab.0.right" timestamp="1575933098886">
+    <state width="1250" height="274" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1580378516949" />
+    <state width="1250" height="274" key="GridCell.Tab.0.right" timestamp="1580378516949">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="274" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1575933098886" />
+    <state width="1250" height="274" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1580378516949" />
     <state width="1250" height="205" key="GridCell.Tab.1.bottom" timestamp="1575930101975">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
@@ -164,17 +245,17 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="285" y="148" width="855" height="505" key="caller.chooser.dialog/70.27.1296.741@70.27.1296.741" timestamp="1575932922170" />
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575876269427">
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579096969530">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1575876269427" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1579096969530" />
     <state x="492" y="118" width="442" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575640339360">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="492" y="118" width="442" height="566" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.27.1296.741@70.27.1296.741" timestamp="1575640339360" />
-    <state x="70" y="27" width="1286" height="741" key="new project wizard" timestamp="1575897554723">
+    <state x="70" y="27" width="1286" height="741" key="new project wizard" timestamp="1575983847944">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1575897554723" />
+    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1575983847944" />
   </component>
 </project>

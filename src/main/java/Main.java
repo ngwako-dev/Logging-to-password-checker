@@ -8,12 +8,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String password = "gA";
-        logger.debug(PasswordIsOk.passwordIsOkay());
+         String password = "";
+        logger.debug(PasswordIsValid.passwordIsOkay(password));
 
 
         logger.error(PasswordIsValid.passwordIsValid(password));
-//        System.out.println(PasswordIsOk.passwordIsOkay());
 
 
 
